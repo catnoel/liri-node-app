@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/catnoel/liri-node-app/issues"
   },
-  "homepage": "https://github.com/catnoel/liri-node-app#readme"
+  "homepage": "https://github.com/catnoel/liri-node-app#readme",
+  "dependencies": {
+    "require": "^2.4.20",
+    "twit": "^2.2.9"
+  }
 }
